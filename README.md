@@ -1,1 +1,1 @@
-# number-guesser
+# A fun number guesser game.
